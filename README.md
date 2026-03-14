@@ -1,24 +1,23 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/Wriath18?label=Followers&style=flat-square)](https://github.com/Wriath18)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-62-blue?style=flat-square)](https://github.com/Wriath18?tab=repositories)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+Hi, I'm Sanidhya Goel. I am a Coach at Major League Hacking and I build projects around developer tooling, MCP integrations, and practical hackathon demos.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- GitHub: [Wriath18](https://github.com/Wriath18)
+- Role: Coach at Major League Hacking
+- Followers: 8
+- Following: 4
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- [wriath18-new](https://github.com/Wriath18/wriath18-new) - Profile and demo repository for current MLH workflow experiments.
+- [barlinks](https://github.com/Wriath18/barlinks) - Swift project focused on app development and utility workflows.
+- [CustomMCP](https://github.com/Wriath18/CustomMCP) - MCP server built from scratch for custom integrations and experimentation.
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## Tech Focus
+- Languages: Python, Swift, JavaScript, Ruby
+- Focus Areas: MCP servers, developer automation, hackathon tooling
+- Interests: Building useful dev tools, rapid prototyping, community mentoring
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
